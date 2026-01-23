@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_application_property">
+    <sys_application_property action="DELETE">
+        <default_value/>
+        <description/>
+        <name>x_58872_needit.advancedNoticeDay</name>
+        <property/>
+        <read_roles>x_58872_needit.admin</read_roles>
+        <sys_class_name>sys_application_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-23 19:27:08</sys_created_on>
+        <sys_id>5a9c95ba47a2b610f854916a216d438c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.advancedNoticeDay</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_application_property_5a9c95ba47a2b610f854916a216d438c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-23 19:27:08</sys_updated_on>
+        <type/>
+        <usage_notes/>
+        <write_roles>x_58872_needit.admin</write_roles>
+    </sys_application_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>49f9b9103b28e294a36804e0b5e45af8</instance_id>
+        <instance_name>dev307986</instance_name>
+        <name>sys_application_property_5a9c95ba47a2b610f854916a216d438c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_application_property"><sys_application_property action="INSERT_OR_UPDATE"><default_value/><description/><name>x_58872_needit.advancedNoticeDay</name><property/><read_roles>x_58872_needit.admin</read_roles><sys_class_name>sys_application_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-01-23 19:27:08</sys_created_on><sys_id>5a9c95ba47a2b610f854916a216d438c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit.advancedNoticeDay</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_application_property_5a9c95ba47a2b610f854916a216d438c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-01-23 19:27:08</sys_updated_on><type/><usage_notes/><write_roles>x_58872_needit.admin</write_roles></sys_application_property></record_update>]]></payload>
+        <payload_hash>-1229551456</payload_hash>
+        <record_name>x_58872_needit.advancedNoticeDay</record_name>
+        <reverted_from/>
+        <source>5cbe3bb8472ef250f854916a216d4331</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-23 19:27:08</sys_created_on>
+        <sys_id>e7dc9dba47a2b610f854916a216d43da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19bec531e420000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-23 19:27:08</sys_updated_on>
+        <type>Application Properties</type>
+        <update_guid>27dc9dba0aa2b6104172156f6c6e35d9</update_guid>
+        <update_guid_history>27dc9dba0aa2b6104172156f6c6e35d9:-1229551456</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-23 19:30:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_application_property">sys_application_property</sys_db_object>
+        <sys_id>22f0949224914d6692493ce23b6d0164</sys_id>
+        <sys_metadata>5a9c95ba47a2b610f854916a216d438c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.advancedNoticeDay</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_application_property_5a9c95ba47a2b610f854916a216d438c</sys_update_name>
+        <sys_update_version display_value="sys_application_property_5a9c95ba47a2b610f854916a216d438c">e7dc9dba47a2b610f854916a216d43da</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-23 19:30:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
